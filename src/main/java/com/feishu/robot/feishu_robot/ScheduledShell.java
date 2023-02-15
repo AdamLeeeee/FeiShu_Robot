@@ -20,7 +20,7 @@ public class ScheduledShell {
     public void scheduledTask() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
-        message.setText("Dinner Time!");
+        message.setText("午餐时间到!");
         httpBody.setContent(message);
         httpBody.setMsg_type("text");
         try {
