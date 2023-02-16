@@ -16,7 +16,7 @@ public class ScheduledShell {
     public ScheduledShell() {
     }
 
-    @Scheduled(cron = "0 0 12 ? * MON-FRI")
+    @Scheduled(cron = "0 0 4 ? * MON-FRI")
     public void scheduledTask0() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
