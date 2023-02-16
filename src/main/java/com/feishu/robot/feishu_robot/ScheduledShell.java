@@ -16,7 +16,7 @@ public class ScheduledShell {
     public ScheduledShell() {
     }
 
-    @Scheduled(cron = "0 50 0 ? * MON-FRI")
+    @Scheduled(cron = "0 54 0 ? * MON-FRI")
     public void scheduledTask0() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -31,7 +31,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 1 ? * MON-FRI")
+    @Scheduled(cron = "0 54 1 ? * MON-FRI")
     public void scheduledTask1() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -46,7 +46,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 2 ? * MON-FRI")
+    @Scheduled(cron = "0 54 2 ? * MON-FRI")
     public void scheduledTask2() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -61,7 +61,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 3 ? * MON-FRI")
+    @Scheduled(cron = "0 54 3 ? * MON-FRI")
     public void scheduledTask3() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -76,7 +76,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 4 ? * MON-FRI")
+    @Scheduled(cron = "0 54 4 ? * MON-FRI")
     public void scheduledTask4() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -91,7 +91,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 5 ? * MON-FRI")
+    @Scheduled(cron = "0 54 5 ? * MON-FRI")
     public void scheduledTask5() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -106,7 +106,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 6 ? * MON-FRI")
+    @Scheduled(cron = "0 54 6 ? * MON-FRI")
     public void scheduledTask6() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -121,7 +121,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 7 ? * MON-FRI")
+    @Scheduled(cron = "0 54 7 ? * MON-FRI")
     public void scheduledTask7() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -136,7 +136,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 8 ? * MON-FRI")
+    @Scheduled(cron = "0 54 8 ? * MON-FRI")
     public void scheduledTask8() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -151,7 +151,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 9 ? * MON-FRI")
+    @Scheduled(cron = "0 54 9 ? * MON-FRI")
     public void scheduledTask9() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -166,7 +166,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 10 ? * MON-FRI")
+    @Scheduled(cron = "0 54 10 ? * MON-FRI")
     public void scheduledTask10() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -181,7 +181,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 11 ? * MON-FRI")
+    @Scheduled(cron = "0 54 11 ? * MON-FRI")
     public void scheduledTask11() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -196,7 +196,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 12 ? * MON-FRI")
+    @Scheduled(cron = "0 54 12 ? * MON-FRI")
     public void scheduledTask12() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -211,7 +211,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 13 ? * MON-FRI")
+    @Scheduled(cron = "0 54 13 ? * MON-FRI")
     public void scheduledTask13() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -226,7 +226,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 14 ? * MON-FRI")
+    @Scheduled(cron = "0 54 14 ? * MON-FRI")
     public void scheduledTask14() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -241,7 +241,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 15 ? * MON-FRI")
+    @Scheduled(cron = "0 54 15 ? * MON-FRI")
     public void scheduledTask15() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -256,7 +256,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 16 ? * MON-FRI")
+    @Scheduled(cron = "0 54 16 ? * MON-FRI")
     public void scheduledTask16() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -271,7 +271,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 17 ? * MON-FRI")
+    @Scheduled(cron = "0 54 17 ? * MON-FRI")
     public void scheduledTask17() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -286,7 +286,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 18 ? * MON-FRI")
+    @Scheduled(cron = "0 54 18 ? * MON-FRI")
     public void scheduledTask18() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -301,7 +301,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 19 ? * MON-FRI")
+    @Scheduled(cron = "0 54 19 ? * MON-FRI")
     public void scheduledTask19() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -316,7 +316,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 20 ? * MON-FRI")
+    @Scheduled(cron = "0 54 20 ? * MON-FRI")
     public void scheduledTask20() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -331,7 +331,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 21 ? * MON-FRI")
+    @Scheduled(cron = "0 54 21 ? * MON-FRI")
     public void scheduledTask21() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -346,7 +346,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 22 ? * MON-FRI")
+    @Scheduled(cron = "0 54 22 ? * MON-FRI")
     public void scheduledTask22() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -361,7 +361,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 23 ? * MON-FRI")
+    @Scheduled(cron = "0 54 23 ? * MON-FRI")
     public void scheduledTask23() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
@@ -376,7 +376,7 @@ public class ScheduledShell {
         }
     }
 
-    @Scheduled(cron = "0 50 24 ? * MON-FRI")
+    @Scheduled(cron = "0 54 24 ? * MON-FRI")
     public void scheduledTask24() {
         HttpBody httpBody = new HttpBody();
         Message message = new Message();
